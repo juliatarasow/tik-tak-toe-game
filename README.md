@@ -1,4 +1,4 @@
-# Tik-Tak-Toe-Game-
+# Tik Tak Toe Game
 a simle JavaScript exercise
 
 **try it out:**
