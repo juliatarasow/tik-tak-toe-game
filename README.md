@@ -2,4 +2,4 @@
 a simle JavaScript exercise
 
 **try it out:**
-https://juliatarasow.github.io/Tik-Tak-Toe-Game-/
+https://juliatarasow.github.io/tik-tak-toe-game/
